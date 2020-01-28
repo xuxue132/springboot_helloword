@@ -1,0 +1,12 @@
+user:
+  lastName: hello
+  age: 18
+  boss: false
+  birth: 2017/12/12
+  maps: {qq: 132474 , mobile: 15178959726}
+  lists:
+    -lisi
+    -zhaoliu
+  dog:
+    name: 小狗
+    age: 12
